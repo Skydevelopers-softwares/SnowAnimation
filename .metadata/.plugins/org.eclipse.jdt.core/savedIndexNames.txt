@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/ala/Documents/?SnowAnimation/.metadata/.plugins/org.eclipse.jdt.core
+996858047.index
+3338645145.index
+24887182.index
+2457586362.index
